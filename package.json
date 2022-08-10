@@ -1,0 +1,16 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "harperive": "^2.0.1",
+    "nodemon": "^2.0.19"
+  }
+}
